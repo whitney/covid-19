@@ -21,6 +21,7 @@
     * https://jonathanboff.wordpress.com/2020/03/19/crisis-management-for-beginners-iii-how-to-use-experts/
 
 ## Dashboards
+* Our World in Data: https://ourworldindata.org/coronavirus
 * Johns Hopkins: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 * FT: https://www.ft.com/coronavirus-latest
 
