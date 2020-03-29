@@ -20,6 +20,10 @@
     * https://jonathanboff.wordpress.com/2020/03/18/crisis-management-for-beginners-ii-lessons-from-two-world-wars/
     * https://jonathanboff.wordpress.com/2020/03/19/crisis-management-for-beginners-iii-how-to-use-experts/
 
+## Dashboards
+* Johns Hopkins: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+* FT: https://www.ft.com/coronavirus-latest
+
 ## Stats / numerical modeling interview questions
 * How much "normal" risk does COVID-19 represent: https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196
 * What's the probability that someone in your childen's school is positive for Coronavirus: https://twitter.com/wtgowers/status/1239482689452941312?s=12
@@ -32,6 +36,8 @@
     * source: https://twitter.com/robertwiblin/status/1241088888552263680?s=12
 * How much difference does it make if the test used to send people into quarantine is bad?: https://paulromer.net/covid-sim-part3/
     * TLDR: "It shouldn’t really come as a surprise, but any policy that puts people who are infectious into quarantine will slow the spread of the disease."
+* Discuss how estimating Case Fatality Rates (CRF) is affected by differences in testing regimes (eg. across countries): https://www.cebm.net/covid-19/global-covid-19-case-fatality-rates/
+    * ^ link from Oxford's Centre for Evidence-Based Medicine
 
 ## Epidemiologists debunking
 * https://twitter.com/ct_bergstrom/status/1241522140559503360?s=12
