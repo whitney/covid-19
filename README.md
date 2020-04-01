@@ -47,6 +47,7 @@
     * TLDR: "It shouldn’t really come as a surprise, but any policy that puts people who are infectious into quarantine will slow the spread of the disease."
 * Discuss how estimating Case Fatality Rates (CRF) is affected by differences in testing regimes (eg. across countries): https://www.cebm.net/covid-19/global-covid-19-case-fatality-rates/
     * ^ link from Oxford's Centre for Evidence-Based Medicine
+* How important are so-called “superspreader” events, for the transmission of Coronavirus?: https://twitter.com/adamjkucharski/status/1245336637497913345?s=12
 
 ## Epidemiologists debunking
 * https://twitter.com/ct_bergstrom/status/1241522140559503360?s=12
