@@ -11,6 +11,7 @@
     * https://paulromer.net/covid-sim-part1/
     * https://paulromer.net/covid-sim-part2/
     * https://paulromer.net/covid-sim-part3/
+* (EXCELLENT) Why It’s So Freaking Hard To Make A Good COVID-19 Model (FiveThirtyEight): https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/
 
 ## Economics / public policy
 * https://joshbersin.com/2020/03/coronavirus-response-people-first-economics-second/
@@ -19,6 +20,10 @@
     * https://jonathanboff.wordpress.com/2020/03/13/crisis-management-for-beginners-lessons-from-two-world-wars/
     * https://jonathanboff.wordpress.com/2020/03/18/crisis-management-for-beginners-ii-lessons-from-two-world-wars/
     * https://jonathanboff.wordpress.com/2020/03/19/crisis-management-for-beginners-iii-how-to-use-experts/
+* (American Enterprise Institute) National coronavirus response: A road map to reopening : https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/
+
+## Misc.
+* Meet the Unacknowledged Hero Who Discovered That Handwashing Saves Lives: https://lithub.com/meet-the-unacknowledged-hero-who-discovered-that-handwashing-saves-lives/
 
 ## Dashboards
 * Our World in Data: https://ourworldindata.org/coronavirus
