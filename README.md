@@ -12,6 +12,8 @@
     * https://paulromer.net/covid-sim-part2/
     * https://paulromer.net/covid-sim-part3/
 * (EXCELLENT) Why It’s So Freaking Hard To Make A Good COVID-19 Model (FiveThirtyEight): https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/
+* (Zeynep Tufekci) Epidemiological models don't give us certainty, they allow us to prune catastrophic branches of a tree of possibilities that lies before us
+    * https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/
 * Contact tracing applications:
     * (led by Trevor Bedford @tvrb, UW): https://twitter.com/trvrb/status/1245240645003833345?s=12
 
@@ -26,7 +28,7 @@
 
 ## Misc.
 * Meet the Unacknowledged Hero Who Discovered That Handwashing Saves Lives: https://lithub.com/meet-the-unacknowledged-hero-who-discovered-that-handwashing-saves-lives/
-* Protecting your family (Weill Cornell MD): https://vimeo.com/399733860: 
+* How to protect your family (Weill Cornell MD): https://vimeo.com/399733860: 
 
 ## Dashboards
 * Our World in Data: https://ourworldindata.org/coronavirus
