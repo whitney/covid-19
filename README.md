@@ -5,21 +5,23 @@
 * Neil Ferguson's updated model ("...Evidence of initial success for China exiting COVID-19 social distancing policy..."): https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Exiting-Social-Distancing-24-03-2020.pdf
 * How much "normal" risk does COVID-19 represent: https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196
 * https://www.cdc.gov/coronavirus/2019-ncov/index.html
-* Coronavirus testing: https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-testing/
 * Common mistakes made with epidemiological datasets/questions: https://twitter.com/adamjkucharski/status/1241089577139535874?s=12 
 * Paul Romer's toy model to evaluate 2 questins: How much disruption can testing avoid (ie targeted quarantine vs. non-specific, random quarantine)? How much does it matter if the tests are inaccurate (ie high false negative rate)?
     * https://paulromer.net/covid-sim-part1/
     * https://paulromer.net/covid-sim-part2/
     * https://paulromer.net/covid-sim-part3/
 * (EXCELLENT) Why It’s So Freaking Hard To Make A Good COVID-19 Model (FiveThirtyEight): https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/
-* (FiveThirtyEight) Coronavirus case counts are meaningless: https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/
+* (FiveThirtyEight) Coronavirus case counts are meaningless: 
+    * "The number of reported COVID-19 cases is not a very useful indicator of anything unless you also know something about how tests are being conducted."
+    * https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/
 * (Zeynep Tufekci; EXCELLENT) Epidemiological models don't give us certainty, they allow us to prune catastrophic branches of a tree of possibilities that lies before us
     * https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/
 * Contact tracing applications:
     * (led by Trevor Bedford @tvrb, UW): https://twitter.com/trvrb/status/1245240645003833345?s=12
 
-## Testing
+## Testing / Pharmaceutical interventions 
 * (RCTs) The Magic of Randomization: http://med.stanford.edu/content/dam/sm/epidemiology-dept/documents/EpiSeminars/Collins_Peto_MagicRandomization_NEJM_2020.pdf
+* Coronavirus testing: https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-testing/
 
 ## Economics / public policy
 * https://joshbersin.com/2020/03/coronavirus-response-people-first-economics-second/
@@ -29,6 +31,7 @@
     * https://jonathanboff.wordpress.com/2020/03/18/crisis-management-for-beginners-ii-lessons-from-two-world-wars/
     * https://jonathanboff.wordpress.com/2020/03/19/crisis-management-for-beginners-iii-how-to-use-experts/
 * (American Enterprise Institute) National coronavirus response: A road map to reopening : https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/
+* Has premature de-industrialisation in the US made our country less resilient/robust? https://danwang.co/definite-optimism-as-human-capital/
 
 ## Misc.
 * Meet the Unacknowledged Hero Who Discovered That Handwashing Saves Lives: https://lithub.com/meet-the-unacknowledged-hero-who-discovered-that-handwashing-saves-lives/
@@ -54,6 +57,7 @@
 * Discuss how estimating Case Fatality Rates (CRF) is affected by differences in testing regimes (eg. across countries): https://www.cebm.net/covid-19/global-covid-19-case-fatality-rates/
     * ^ link from Oxford's Centre for Evidence-Based Medicine
 * How important are so-called “superspreader” events, for the transmission of Coronavirus?: https://twitter.com/adamjkucharski/status/1245336637497913345?s=12
+* How do different testing regimes affect estimates of R and case counts?: https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/
 
 ## Epidemiologists debunking
 * https://twitter.com/ct_bergstrom/status/1241522140559503360?s=12
