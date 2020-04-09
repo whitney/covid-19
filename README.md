@@ -12,10 +12,14 @@
     * https://paulromer.net/covid-sim-part2/
     * https://paulromer.net/covid-sim-part3/
 * (EXCELLENT) Why It’s So Freaking Hard To Make A Good COVID-19 Model (FiveThirtyEight): https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/
-* (Zeynep Tufekci) Epidemiological models don't give us certainty, they allow us to prune catastrophic branches of a tree of possibilities that lies before us
+* (FiveThirtyEight) Coronavirus case counts are meaningless: https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/
+* (Zeynep Tufekci; EXCELLENT) Epidemiological models don't give us certainty, they allow us to prune catastrophic branches of a tree of possibilities that lies before us
     * https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/
 * Contact tracing applications:
     * (led by Trevor Bedford @tvrb, UW): https://twitter.com/trvrb/status/1245240645003833345?s=12
+
+## Testing
+* (RCTs) The Magic of Randomization: http://med.stanford.edu/content/dam/sm/epidemiology-dept/documents/EpiSeminars/Collins_Peto_MagicRandomization_NEJM_2020.pdf
 
 ## Economics / public policy
 * https://joshbersin.com/2020/03/coronavirus-response-people-first-economics-second/
