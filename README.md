@@ -30,7 +30,11 @@
     * https://jonathanboff.wordpress.com/2020/03/13/crisis-management-for-beginners-lessons-from-two-world-wars/
     * https://jonathanboff.wordpress.com/2020/03/18/crisis-management-for-beginners-ii-lessons-from-two-world-wars/
     * https://jonathanboff.wordpress.com/2020/03/19/crisis-management-for-beginners-iii-how-to-use-experts/
-* (American Enterprise Institute) National coronavirus response: A road map to reopening : https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/
+* Proposals for "re-opening" the (US) economy:
+    * Ezra Klein's op-ed on the following proposals: https://www.vox.com/2020/4/10/21215494/coronavirus-plans-social-distancing-economy-recession-depression-unemployment
+    * (The left-leaning Center for American Progress) "A National and State Plan To End the Coronavirus Crisis": https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/
+    * (Harvard University’s Safra Center for Ethics) "When can we go out?": https://drive.google.com/file/d/1gf21eYeNWwrR9OO5nzxn1jlv-RTmHkt0/view
+    * (The conservative American Enterprise Institute) National coronavirus response: A road map to reopening : https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/
 * Has premature de-industrialisation in the US made our country less resilient/robust? https://danwang.co/definite-optimism-as-human-capital/
 
 ## Misc.
@@ -58,6 +62,8 @@
     * ^ link from Oxford's Centre for Evidence-Based Medicine
 * How important are so-called “superspreader” events, for the transmission of Coronavirus?: https://twitter.com/adamjkucharski/status/1245336637497913345?s=12
 * How do different testing regimes affect estimates of R and case counts?: https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/
+* Antibody tests and Bayes' rule: how do you compute the P(you are + for COVID | you test + for COVID), given an antibody test with a certain *sensitivity* (ie probability that a person tests positive if they *are* infected), and a certain *specificity* (ie probability that a person tests negative given that they *are* negative)?
+    * https://twitter.com/taaltree/status/1248467731545911296
 
 ## Epidemiologists debunking
 * https://twitter.com/ct_bergstrom/status/1241522140559503360?s=12
