@@ -38,6 +38,8 @@
 * Has premature de-industrialisation in the US made our country less resilient/robust? https://danwang.co/definite-optimism-as-human-capital/
 
 ## Misc.
+* "The information environment for coronavirus is going to be the most complicated information environment we've ever been in for a natural disaster."
+    * Patick McKenzie (@patio11): https://twitter.com/patio11/status/1241968109671428097
 * Meet the Unacknowledged Hero Who Discovered That Handwashing Saves Lives: https://lithub.com/meet-the-unacknowledged-hero-who-discovered-that-handwashing-saves-lives/
 * How to protect your family (Weill Cornell MD): https://vimeo.com/399733860: 
 
