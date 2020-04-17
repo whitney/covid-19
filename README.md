@@ -21,6 +21,7 @@
 * Model critique: https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/
 
 ## Testing / Pharmaceutical interventions 
+* COVID-19 Treatment/Vaccine tracker: https://milkeninstitute.org/covid-19-tracker
 * (RCTs) The Magic of Randomization: http://med.stanford.edu/content/dam/sm/epidemiology-dept/documents/EpiSeminars/Collins_Peto_MagicRandomization_NEJM_2020.pdf
 * Coronavirus testing: https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-testing/
 
