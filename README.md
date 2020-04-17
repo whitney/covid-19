@@ -18,6 +18,7 @@
     * https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/
 * Contact tracing applications:
     * (led by Trevor Bedford @tvrb, UW): https://twitter.com/trvrb/status/1245240645003833345?s=12
+* Model critique: https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/
 
 ## Testing / Pharmaceutical interventions 
 * (RCTs) The Magic of Randomization: http://med.stanford.edu/content/dam/sm/epidemiology-dept/documents/EpiSeminars/Collins_Peto_MagicRandomization_NEJM_2020.pdf
@@ -42,6 +43,7 @@
     * Patick McKenzie (@patio11): https://twitter.com/patio11/status/1241968109671428097
 * Meet the Unacknowledged Hero Who Discovered That Handwashing Saves Lives: https://lithub.com/meet-the-unacknowledged-hero-who-discovered-that-handwashing-saves-lives/
 * How to protect your family (Weill Cornell MD): https://vimeo.com/399733860: 
+* Garbage math (garbage in, garbage out): https://twitter.com/xkcdcomic/status/1251195400884826112?s=21
 
 ## Dashboards
 * Our World in Data: https://ourworldindata.org/coronavirus
