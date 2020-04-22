@@ -19,6 +19,15 @@
 * Contact tracing applications:
     * (led by Trevor Bedford @tvrb, UW): https://twitter.com/trvrb/status/1245240645003833345?s=12
 * Model critique: https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/
+* What we should believe and not believe about R (email to Tyler Cowen): https://marginalrevolution.com/marginalrevolution/2020/04/our-best-people-are-working-on-this-problem.html
+* Problems with the Stanford study on antibody prevalence:
+    * the study: https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1.full.pdf
+    * Andrew Gelman (the error bounds on the specificity of the test are problematic): https://statmodeling.stat.columbia.edu/2020/04/19/fatal-flaws-in-stanford-study-of-coronavirus-prevalence/
+    * https://twitter.com/trvrb/status/1251332447691628545?s=21
+    * https://twitter.com/nimwegenlab/status/1251261262366900232?s=21
+    * https://twitter.com/richardneher/status/1251484971279233025?s=21
+    * https://twitter.com/jjcherian/status/1251272882203885568?s=21
+    * https://twitter.com/danlarremore/status/1252315100729364480?s=21
 
 ## Testing / Pharmaceutical interventions 
 * COVID-19 Treatment/Vaccine tracker: https://milkeninstitute.org/covid-19-tracker
@@ -35,6 +44,7 @@
 * Proposals for "re-opening" the (US) economy:
     * Ezra Klein's op-ed on the following proposals: https://www.vox.com/2020/4/10/21215494/coronavirus-plans-social-distancing-economy-recession-depression-unemployment
     * (The left-leaning Center for American Progress) "A National and State Plan To End the Coronavirus Crisis": https://www.americanprogress.org/issues/healthcare/news/2020/04/03/482613/national-state-plan-end-coronavirus-crisis/
+    * (Geln Weyl, et al for Harvard University’s Safra Center for Ethics) "Roadmap to Pandemic Resilience": https://ethics.harvard.edu/files/center-for-ethics/files/roadmaptopandemicresilience_updated_4.20.20.pdf
     * (Harvard University’s Safra Center for Ethics) "When can we go out?": https://drive.google.com/file/d/1gf21eYeNWwrR9OO5nzxn1jlv-RTmHkt0/view
     * (The conservative American Enterprise Institute) National coronavirus response: A road map to reopening : https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/
 * Has premature de-industrialisation in the US made our country less resilient/robust? https://danwang.co/definite-optimism-as-human-capital/
@@ -69,6 +79,8 @@
 * How do different testing regimes affect estimates of R and case counts?: https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/
 * Antibody tests and Bayes' rule: how do you compute the P(you are + for COVID | you test + for COVID), given an antibody test with a certain *sensitivity* (ie probability that a person tests positive if they *are* infected), and a certain *specificity* (ie probability that a person tests negative given that they *are* negative)?
     * https://twitter.com/taaltree/status/1248467731545911296
+* How does sensitivity & specificity affect the inferences that we can draw from seroprevalence studies & inform the number of samples we need for statistical confidence?
+    * https://twitter.com/DanLarremore/status/1252315100729364480
 
 ## Epidemiologists debunking
 * https://twitter.com/ct_bergstrom/status/1241522140559503360?s=12
