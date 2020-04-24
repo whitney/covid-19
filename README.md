@@ -23,6 +23,7 @@
 * Problems with the Stanford study on antibody prevalence:
     * the study: https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1.full.pdf
     * Andrew Gelman (the error bounds on the specificity of the test are problematic): https://statmodeling.stat.columbia.edu/2020/04/19/fatal-flaws-in-stanford-study-of-coronavirus-prevalence/
+    * https://twitter.com/natesilver538/status/1252973441193558017?s=12
     * https://twitter.com/trvrb/status/1251332447691628545?s=21
     * https://twitter.com/nimwegenlab/status/1251261262366900232?s=21
     * https://twitter.com/richardneher/status/1251484971279233025?s=21
