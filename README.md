@@ -29,6 +29,7 @@
     * https://twitter.com/richardneher/status/1251484971279233025?s=21
     * https://twitter.com/jjcherian/status/1251272882203885568?s=21
     * https://twitter.com/danlarremore/status/1252315100729364480?s=21
+* How much contact is required for transmission? https://twitter.com/mugecevik/status/1257392360960516097
 
 ## Testing / Pharmaceutical interventions 
 * COVID-19 Treatment/Vaccine tracker: https://milkeninstitute.org/covid-19-tracker
