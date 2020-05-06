@@ -48,6 +48,7 @@
     * (Geln Weyl, et al for Harvard University’s Safra Center for Ethics) "Roadmap to Pandemic Resilience": https://ethics.harvard.edu/files/center-for-ethics/files/roadmaptopandemicresilience_updated_4.20.20.pdf
     * (Harvard University’s Safra Center for Ethics) "When can we go out?": https://drive.google.com/file/d/1gf21eYeNWwrR9OO5nzxn1jlv-RTmHkt0/view
     * (The conservative American Enterprise Institute) National coronavirus response: A road map to reopening : https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/
+    * Paul Romer's plan ("Roadmap to Responsibly Reopen America"): https://roadmap.paulromer.net/
 * Has premature de-industrialisation in the US made our country less resilient/robust? https://danwang.co/definite-optimism-as-human-capital/
 
 ## Misc.
