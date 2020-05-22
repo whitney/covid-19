@@ -29,7 +29,9 @@
     * https://twitter.com/richardneher/status/1251484971279233025?s=21
     * https://twitter.com/jjcherian/status/1251272882203885568?s=21
     * https://twitter.com/danlarremore/status/1252315100729364480?s=21
+    * Andrew Gelman's "hierarchical Bayesian analysis for the Santa Clara study (and other prevalence studies in the presence of uncertainty in the specificity and sensitivity of the test)": https://statmodeling.stat.columbia.edu/2020/05/20/ok-heres-a-hierarchical-bayesian-analysis-for-the-santa-clara-study-and-other-prevalence-studies-in-the-presence-of-uncertainty-in-the-specificity-and-sensitivity-of-the-test/
 * How much contact is required for transmission? https://twitter.com/mugecevik/status/1257392360960516097
+* (yet another) critique of (yet another) John Ioannidis pre-print on seroprevalence studies: https://twitter.com/gidmk/status/1262956011872280577
 
 ## Testing / Pharmaceutical interventions 
 * COVID-19 Treatment/Vaccine tracker: https://milkeninstitute.org/covid-19-tracker
