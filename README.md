@@ -37,6 +37,9 @@
 * COVID-19 Treatment/Vaccine tracker: https://milkeninstitute.org/covid-19-tracker
 * (RCTs) The Magic of Randomization: http://med.stanford.edu/content/dam/sm/epidemiology-dept/documents/EpiSeminars/Collins_Peto_MagicRandomization_NEJM_2020.pdf
 * Coronavirus testing: https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-testing/
+* Pooled testing:
+    * https://www.technion.ac.il/en/2020/03/pooling-method-for-accelerated-testing-of-covid-19/
+    * https://marginalrevolution.com/marginalrevolution/2020/07/pooled-testing-is-super-beneficial.html
 
 ## Economics / public policy
 * https://joshbersin.com/2020/03/coronavirus-response-people-first-economics-second/
