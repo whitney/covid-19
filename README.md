@@ -66,6 +66,7 @@
 * Why aren't we wearing better masks?
     * An evidence review of face masks against COVID-19: https://www.pnas.org/content/118/4/e2014564118
     * https://www.theatlantic.com/health/archive/2021/01/why-arent-we-wearing-better-masks/617656/
+* "Micro-covids" and COVID risk points (tool for calculating risk associated with a certain activity): https://www.wired.com/story/group-house-covid-risk-points/
 
 ## Dashboards
 * Our World in Data: https://ourworldindata.org/coronavirus
