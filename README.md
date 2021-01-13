@@ -63,6 +63,9 @@
 * Meet the Unacknowledged Hero Who Discovered That Handwashing Saves Lives: https://lithub.com/meet-the-unacknowledged-hero-who-discovered-that-handwashing-saves-lives/
 * How to protect your family (Weill Cornell MD): https://vimeo.com/399733860: 
 * Garbage math (garbage in, garbage out): https://twitter.com/xkcdcomic/status/1251195400884826112?s=21
+* Why aren't we wearing better masks?
+    * An evidence review of face masks against COVID-19: https://www.pnas.org/content/118/4/e2014564118
+    * https://www.theatlantic.com/health/archive/2021/01/why-arent-we-wearing-better-masks/617656/
 
 ## Dashboards
 * Our World in Data: https://ourworldindata.org/coronavirus
